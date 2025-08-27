@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 I'm currently working on my Cyber Security and Software Development degrees.
 I'm looking forward to learning more about coding. 
 I'm looking to become a professional Ethical Hacker and make a career out of it. 
-Fun Fact: I am a licensed real estate agent in the state of Alabama.
+Fun Fact: I'm a licensed real estate agent in the state of Alabama.
 
